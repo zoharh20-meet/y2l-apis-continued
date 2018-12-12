@@ -24,7 +24,7 @@ This is pretty much the same functionality as clicking "Try your own Image.." bu
 
 * Look at the app.py and home.html. Run the `app.py` server (`python app.py`), go to your browser familirazile yourself with what is already provided for you.
 * In app.py you'll need to code below where it says `YOUR CODE HERE!`
-* You'll need an API key to authenticate with the Clarifai API you can find yours here[] 
+* You'll need an API key to authenticate with the Clarifai API we'll share this in class
 
 If you have any questiosns ask an Instructor/TA
 
