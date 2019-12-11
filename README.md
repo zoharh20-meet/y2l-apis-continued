@@ -24,7 +24,7 @@ This is pretty much the same functionality as clicking "Try your own Image.." bu
 
 * Look at the app.py and home.html. Run the `app.py` server (`python app.py`), go to your browser familiarize yourself with what is already provided for you.
 * In app.py you'll need to code below where it says `YOUR CODE HERE!`
-* You'll need an API key to authenticate with the Clarifai API we'll share this in class
+* You'll need an API key to authenticate with the Clarifai API, you can obtain it through creating a free account on https://www.clarifai.com/pricing, scrolling down and clicking on "Obtain a free api key" button, and creating an application. (Once the application is created, an API key will be generated automatically) 
 * Build the dictionary for the data we want to send, this should be similar to the example we gave in class
 
 If you have any questions ask an Instructor/TA
